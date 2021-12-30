@@ -4,7 +4,7 @@
 Uma empresa de empréstimo precisa criar um sistema de análise de crédito para fornecer aos seus clientes as seguintes funcionalidades:
 
 i. Cadastro de clientes
-    O cliente pode cadastrar: nome, e-mail, CPF, RG, endereço completo, renda e senha.
+- O cliente pode cadastrar: nome, e-mail, CPF, RG, endereço completo, renda e senha.
     
 ii. Login
     A autenticação será realizada por e-mail e senha.
