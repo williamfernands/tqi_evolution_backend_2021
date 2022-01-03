@@ -1,13 +1,13 @@
-package com.william.loanapi;
+package com.william.credmanage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LoanApiApplicationTests {
+class CredmanageApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
